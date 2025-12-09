@@ -13,6 +13,9 @@ The project analyzes text statements to classify mental health status using thre
 ## Project Structure
 
 ```
+├── knime_workflows/             # Decision tree and XGBoost implementation on KNIME software
+├── Report.pdf                   # Project report
+├── README.md                    # Project documentation
 ├── README.md                    # Project documentation
 ├── data.csv                     # Input dataset (30MB)
 ├── bert.py                      # BERT model implementation
